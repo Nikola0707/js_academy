@@ -1,0 +1,1 @@
+web: node ./services/proxy/index.js
